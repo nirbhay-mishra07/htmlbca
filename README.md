@@ -13,16 +13,15 @@
   <img src="Profile.jpg.jpeg" alt="My Profile Picture" width="500" height="350">
   
   <p><b>Currently I am pursuing BCA degree from Bennett University</b></p>
-  
-  <pre style="font-size: 18px; line-height: 1.6; font-weight: bold; padding-left: 20px;">
+
+  <pre><b>
 Skill:                 JAVA Language
                        C  Language
                        PYTHON Language
                        NETWORKING Basics
                        HTML
-  </pre>
-  
-  <pre style="font-size: 18px; line-height: 1.6; font-weight: bold; padding-left: 20px;">
+  </b></pre>
+  <pre><b>
 Tools:                 GIT
                        GITHUB
                        VS CODE
